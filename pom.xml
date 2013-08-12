@@ -5,7 +5,7 @@
     <groupId>gov.usgs.cida.owsutils</groupId>
     <artifactId>cida-owsutils-geonetwork</artifactId>
     <name>cida-owsutils-geonetwork</name>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     
     <inceptionYear>2013</inceptionYear>
     <organization>
